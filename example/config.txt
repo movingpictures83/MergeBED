@@ -1,0 +1,2 @@
+Prefix plugins/MergeBED/example/
+Plugin MergeBED inputfile B.bed outputfile merged.bed
